@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on honing myself to build Apps that provide a clean user experience and intuitive UI.<br>I enjoy exploring new and different frameworks that I can use for my projects. A few examples of frameworks I learnt  would be<br>AGORA, GraphQL, combine, etc.<br><br>Also in my free time, i will be optimizing either my projects or myself.<br><br>
+I'm currently honing my skills to build Apps that provide a clean user experience and an intuitive UI.<br>I enjoy exploring new frameworks for my projects. A few examples of frameworks I learnt  would be<br>AGORA, GraphQL, combine, etc.<br><br>Also, in my free time, I will be optimizing either my projects or myself.<br><br>
 
 
 ## 🌐 Socials:
